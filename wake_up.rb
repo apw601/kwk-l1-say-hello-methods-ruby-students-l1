@@ -1,6 +1,6 @@
 def wake_up
 puts "hear alarm"
-15.time do
+15.times do
   puts "snooze alarm"
 end
 puts "maybe it's time to wake up now"
