@@ -10,6 +10,7 @@ puts "get out of bed"
 puts "go brush teeth"
 puts "get ready for school"
 puts "eat breakfast"
+puts "leave for school"
 end
 
 wake_up
