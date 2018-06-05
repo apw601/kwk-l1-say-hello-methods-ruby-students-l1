@@ -2,6 +2,7 @@ def wake_up
 puts "hear alarm"
 5.times do
   puts "snooze alarm"
+  3.times do
 end
 puts "maybe it's time to wake up now"
 puts "get out of bed"
